@@ -36,7 +36,7 @@ To begin this demonstration we will create a two virtual machines, one will be t
 <img src=https://i.imgur.com/opIIYYm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next step we are going login to DC-1 and enable ICMPv4 on the windows firewall, so that we can see if we can ping Clinet-1 to DC-1 with ping -t meaning it won't pinging until we stop it. Also we will need DC-1 private ip address to ping.
+The next step we are going login to DC-1 and enable ICMPv4 on the windows firewall, so that we can see if we can ping Clinet-1 to DC-1 with ping -t meaning it won't stop pinging until we stop it. Also we will need DC-1 private ip address to ping.
 </p>
 <br />
 
