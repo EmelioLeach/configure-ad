@@ -81,7 +81,7 @@ We will now setup remote desktop for non-admin users on client-1 by opening syst
 <img src=https://i.imgur.com/UOTr2NO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally we will create a bunch of additional users and attempt to login to client-1 with a user. First we must login to Dc-1 as jane_admin so that we can open powershell_ise as an admin, create a new file and paste the contents of the script into it. we should be able to run the script and observe the accounts being created and then we can pick any user name and login.
 </p>
 <br />
 
