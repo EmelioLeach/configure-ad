@@ -63,12 +63,13 @@ Now if we loginned successfully with mydomain.com\user we will open active direc
 <img src=https://i.imgur.com/pmIHnZq.png height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Now once we are mydomain.com\jane_admin we can right click the windows icon and pull up the system tab where we should be able o rename this pc (advanced) so that we can change the domain.
+Now once we are on mydomain.com\jane_admin we can right click the windows icon and pull up the system tab where we should be able o rename this pc (advanced) so that we can change the domain but you will most likely get an error since there isn't a DC. We must set the dns by using the private ip address (10.0.0.4) from Dc-1 to Client-1. 
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/uFhJLBU.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/uFhJLBU.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src=https://i.imgur.com/h3VN1EM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
