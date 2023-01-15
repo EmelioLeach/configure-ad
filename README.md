@@ -73,12 +73,12 @@ Now once we are on mydomain.com\jane_admin we can right click the windows icon a
 <img src=https://i.imgur.com/4XWocgm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will now setup remote desktop for non-admin users on client-1 by opening system properties and clicking remote desktop and allowing domain users to have access to remote desktop.
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/3sdn88y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/UOTr2NO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
