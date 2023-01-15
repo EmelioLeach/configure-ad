@@ -45,7 +45,7 @@ The next step we are going login to DC-1 and enable ICMPv4 on the windows firewa
 <img src=https://i.imgur.com/H8vXv4k.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-Now we can log back into DC-1 and install Active directory domain services and promote as a dc. When we setup a new forest it should mydomain.com but it can be anything you want, so that when you the sytem restarts you should be able to login to DC-1 as mydomain.com\labuser.
+Now we can log back into DC-1 and install Active directory domain services and promote as a dc. When we setup a new forest it should mydomain.com but it can be anything you want, so that when you the system restarts you should be able to login to DC-1 as mydomain.com\labuser.
 </p>
 <br />
 
@@ -53,12 +53,13 @@ Now we can log back into DC-1 and install Active directory domain services and p
 <img src=https://i.imgur.com/3sdn88y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now if we loginned successfully with mydomain.com\user we will open active directory users and computers from the tools menu and then right click on mydomain.com so we can create two organizational unit (folders) with one being _ADMINS and _EMPOLYEES. If we right click on the empty admins window we should be able to create a new user which we would name jane doe.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/IoneYOL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/C1FVCpZ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
