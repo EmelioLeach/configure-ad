@@ -53,7 +53,7 @@ Now we can log back into DC-1 and install Active directory domain services and p
 <img src=https://i.imgur.com/3sdn88y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now if we loginned successfully with mydomain.com\user we will open active directory users and computers from the tools menu and then right click on mydomain.com so we can create two organizational unit (folders) with one being _ADMINS and _EMPOLYEES. If we right click on the empty admins window we should be able to create a new user which we would name jane doe.
+Now if we loginned successfully with mydomain.com\user we will open active directory users and computers from the tools menu and then right click on mydomain.com so we can create two organizational unit (folders) with one being _ADMINS and _EMPOLYEES. If we right click on the empty admins window we should be able to create a new user which we would name jane doe. Finallly we can make jane a admin by right clicking her name and opening properties to see what she is a memeber of, add domain and check the list and add Domain Admin to jane's groups.
 </p>
 <br />
 
